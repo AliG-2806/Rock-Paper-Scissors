@@ -62,8 +62,8 @@ body{
     align-items: center;
 }
 
-.container #winner{
+.container #winner > *{
     font-family: 'Arial';
     font-size: 24px;
-    color: red;
+    color: black;
 }
