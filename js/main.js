@@ -22,11 +22,12 @@ function getComputerChoice(){
 	}
 }
 
-function getHumanChoice(){
+/*function getHumanChoice(){
     // store the human decision
 	let currentHumanChoice = prompt("What's your choice? (rock,paper,scissors): ");
 	return currentHumanChoice.toLowerCase();
 }
+*/
 
 function playRound(humanChoice, computerChoice){
     // play the round
